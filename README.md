@@ -1,2 +1,2 @@
 # Summarise_transformer
-Training phase of a transformer summarise
+Pre processing phase of a transformer summarise
